@@ -1,3 +1,3 @@
 # Myfirstrepo
 
-Here generic projects like calculator, bubble sort, etc, have been uploaded.
+Here, generic projects like calculator, bubble sort, etc, have been uploaded.
